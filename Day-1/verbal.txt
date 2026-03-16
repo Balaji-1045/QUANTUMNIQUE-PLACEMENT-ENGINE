@@ -1,0 +1,58 @@
+Reading Passage
+
+Technology is transforming industries rapidly. Artificial Intelligence,
+Machine Learning, and Automation are reshaping the way companies operate.
+Businesses now depend heavily on data-driven decision making.
+
+
+Questions
+
+        1. What is the main idea of the passage?
+
+        Main Idea:
+         Technology is rapidly changing how industries
+         function and how companies make decisions.
+
+        2.Which technologies are mentioned in the passage?
+
+        Technologies Mentioned: Artificial Intelligence (AI),
+         Machine Learning, and Automation.
+
+        3. Why are companies relying on data-driven decisions?
+
+        Reason for Reliance: They are essential because they have reshaped the way companies 
+        operate in the modern era.
+
+
+
+
+
+Grammar Correction
+            
+            1. She don't understand the problem.
+
+                She doesn't understand the problem.
+        
+            2. He have completed the task.
+
+                He have completed the task. 
+
+            3. They was going to the meeting.
+
+                They were going to the meeting.
+
+
+Communication practice
+
+ My name is Balaji and I am currently pursuing my bachelor's degree in the stream of CSE( CYBER SECURITY) at Muthayammal Engineering College.
+I am interested in Web development and problem solving. I'm technically good at programming languges like C,Java,Javascript and  databases 
+like SQL,MONGODB and I'm also passionate on web development using Mern Stack  I have worked on projects like Library Management System
+ Developed a system to manage books and library records digitally. Admins can add, update, and remove books while users can search and view 
+ availability. The system tracks issued and returned books, reducing manual record keeping and ADMINOVA – College Management System
+ Worked as part of the development team contributing to modules like student record management, attendance tracking, and announcements. Assisted
+with frontend development and API integration. and i've done Internship as an Web Developer Intern – Salem (01/11/2025 – 01/12/2025). Developed 
+responsive web pages and improved UI performance while implementing modern frontend features.
+
+                                             thank you
+
+
