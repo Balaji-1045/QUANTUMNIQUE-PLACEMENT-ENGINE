@@ -1,0 +1,73 @@
+APTITUDE (Profit & Loss)
+
+
+Question 1
+A shopkeeper buys a book for ₹400 and sells it for ₹480.
+Find the profit percentage.
+
+Answer:
+        profit = sell price - cost price
+               = 480 - 400
+               = 80
+        
+        profit percent = (profit / cost price) * 100
+                       = (80 / 400) * 100
+                answer = 20%
+
+Question 2
+A man buys a watch for ₹1500 and sells it for ₹1200.
+Find the loss percentage.
+
+Answer:
+        loss = sell price - cost price
+               = 1500 - 1200
+               = 300
+        
+         loss percent  = (profit / cost price) * 100
+                       = (300 / 1500) * 100
+                answer = 20%
+
+
+Question 3
+A trader marks a product 20% above the cost price and gives a 10% discount.
+Find the final profit percentage.
+
+Answer:
+        marked price  = 100% + 20% 
+        selling price = 120
+        discount      = 10% of 120 = 12
+        profit        = 120 - 12 = 108
+        profit percent= 108 - 100 
+            answer    = 8%
+
+Question 4
+If the cost price of 5 pens is ₹100, what is the selling price of each pen to make 25% profit?
+
+Answer:
+        cp of 5 pen = 100
+        cp of 1 pen = 100 / 5 = 20
+
+         profit = 25% 0f 20 = 5
+        selling price = cost price + profit
+        Answer = 25 
+
+
+Question 5
+A product is sold for ₹900 with a 10% loss.
+Find the cost price.
+ 
+ Answer:
+        90% of cp = 900
+        90 / 100 * cp = 900
+        cp = (900 * 100) / 90
+           = 10 * 100
+    Answer = 1000
+        
+
+
+
+
+
+
+
+

@@ -1,0 +1,62 @@
+VERBAL ABILITY
+
+Reading Passage
+
+Software development is evolving rapidly with the rise of cloud computing and
+artificial intelligence. Companies are now building scalable systems that can
+handle millions of users simultaneously.
+
+Questions
+
+1. What technologies are influencing software development?
+        Cloud computing and artificial intelligence (AI)
+
+2. Why are scalable systems important?
+         to handle millions of users simultaneously .
+
+3. What does "scalable" mean in software systems?
+        "scalable" means the ability of a system to expand its capacity to manage an increasing workload 
+
+Grammar Correction
+
+1. He don't like programming.
+        He doesn't like programming.
+
+2. She have submitted the assignment.
+        She has submitted the assignment.
+
+3. They was discussing the project.
+        They were discussing the project.
+
+COMMUNICATION PRACTICE
+
+Speak for 2–3 minutes on:
+
+Explain Your Final Year Project
+
+Include:
+- Project title
+- Problem statement
+- Technologies used
+- Your role in the project
+- Challenges faced
+
+
+                                 ADMINOVA
+
+
+  Problem Statement:
+
+                Managing a college’s daily operations—like tracking attendance, maintaining student records, 
+                and broadcasting updates—is often a fragmented and manual process. Using outdated or disconnected 
+                systems leads to data errors, communication gaps between staff and students, and a massive administrative
+                 burden that slows down the entire institution.
+
+ADMINOVA – College Management System:
+
+                 Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js). Worked as part of the development team contributing to modules 
+                 like student record management, attendance tracking, and announcements. Assisted with frontend development and API integration.
+
+Challenges faced:            
+                 Honestly, one of the biggest Struggle was Git management. Since we were all working on the same codebase simultaneously, we constantly
+                ran into merge conflicts—especially when two of us edited the same frontend component or backend route at the same time.
