@@ -1,0 +1,51 @@
+ VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Operating systems manage hardware resources and provide services for computer programs.
+Efficient OS design ensures better performance, memory management, and process scheduling.
+
+Questions
+
+1. What is the main role of an operating system?
+        Operating systems manage hardware resources and provide services for computer programs.
+2. Why is memory management important?
+         It ensures efficient use of memory and improves system performance.
+3. What is process scheduling?
+        It is the process of deciding which task runs at a particular time in the CPU.
+
+Grammar Correction
+
+1. He don’t know operating systems.
+        He doesn’t know operating systems.
+2. She were learning data structures.
+        She was learning data structures.
+3. They has solved the problem.
+        They have solved the problem.
+
+
+
+COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain how the Internet works
+
+Include:
+- What happens when you type a URL
+- DNS
+- Server
+- Response
+
+
+
+The Internet is a system that connects computers around the world
+and helps them share information. When we type a URL in a browser,
+the browser first tries to find where that website is located.
+For this, it uses DNS, which works like a contact list and converts 
+the website name into an IP address. After getting the IP address,
+the browser sends a request to the server where the website is stored.
+The server then processes the request and sends back the needed
+data like web pages or images. Finally, the browser receives this
+response and shows the website on the screen. This whole process
+happens very quickly, so we can access websites in just a few seconds.
