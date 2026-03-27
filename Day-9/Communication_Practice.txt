@@ -1,0 +1,18 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+
+Explain what happens when you run a program
+
+1.The computer loads the program from storage into memory (RAM).
+
+2.It starts the program and creates a process for it.
+
+3.The computer reads the program’s instructions.
+
+4.The CPU executes the instructions step by step.
+
+5.The program may take input (keyboard, mouse, etc.).
+
+6.It shows output (text, images, sound, etc.).
+
+7.When finished, the program stops and the memory is freed.
